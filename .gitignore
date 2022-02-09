@@ -5,3 +5,5 @@ __pycache__/
 docker-compose.yaml
 log/
 resources/product.json
+.DS_Store
+*.xlsx
