@@ -1,7 +1,7 @@
 # Домашнее задание
 
 ## Архитектура аналитического решения
-
+![This is an image](https://github.com/ruslangtn/DataLearn/blob/f59f27ef70e8e32625ea97597ef2faaaedcba384/module-01/architecture.drawio.svg)
 ## Аналитика в Excel
 
 Используя данные Sample - Superstore.xls сделать:
