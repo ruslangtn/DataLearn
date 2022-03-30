@@ -9,3 +9,6 @@ resources/product.json
 *.mp4
 *.png
 *.xlsx
+*.bkp
+*.dtmp
+*.drawio

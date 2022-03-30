@@ -6,4 +6,6 @@ docker-compose.yaml
 log/
 resources/product.json
 .DS_Store
+*.mp4
+*.png
 *.xlsx
